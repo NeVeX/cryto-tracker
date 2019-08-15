@@ -1,0 +1,5 @@
+gql-api/node_modules
+gql-api/bin
+gql-api/.idea
+*.iml
+
